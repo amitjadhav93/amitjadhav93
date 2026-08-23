@@ -125,7 +125,7 @@
 <hr>
 
 <div align="center">
-
+### ⚡ Turning ideas into intelligent solutions. ⚡
 </div>
 
 ### ⚡ Turning ideas into intelligent solutions. ⚡
