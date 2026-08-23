@@ -50,7 +50,9 @@
 </div>
 <hr>
 
-<h2>🌐 My Profiles</h2>
+<div>
+  <h2 style="border: none;">🌐 My Profiles</h2>
+</div>
 <div align = "center">
 
 <a href="https://github.com/YOUR_USERNAME">
@@ -71,7 +73,9 @@
 </div>
 <hr>
 
-<h2>🌐 Connect With Me</h2>
+<div>
+  <h2 style="border: none;">🌐Connect With Me</h2>
+</div>
 <div align = "center">
 <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
