@@ -51,7 +51,7 @@
 <hr>
 
 <div>
-  <strong>🌐 My Profiles</strong>
+  <strong style="font-size: 1.25em;">🌐 My Profiles</strong>
 </div>
 <div align = "center">
 
