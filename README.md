@@ -47,10 +47,11 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> -->
-
+</div>
 <hr>
 
 ## 🌐 My Profiles
+<div align = "center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -67,11 +68,11 @@
 <a href="https://www.codechef.com/users/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
-
+</div>
 <hr>
 
 ## 🌐 Connect With Me
-
+<div align = "center">
 <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
